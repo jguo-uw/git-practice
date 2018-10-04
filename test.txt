@@ -1,1 +1,4 @@
 Here is a change in local file.
+=======
+Let's make a conflict!
+
